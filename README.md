@@ -1,6 +1,7 @@
-### Hi there 👋
+![Expected something?](https://raw.githubusercontent.com/JustAnyones/JustAnyones/master/yes.png)
 
 <!--
+### Hi there 👋
 **JustAnyones/JustAnyones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
