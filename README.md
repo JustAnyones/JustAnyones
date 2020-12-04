@@ -1,4 +1,4 @@
-![Expected something?](https://raw.githubusercontent.com/JustAnyones/JustAnyones/master/yes.png)
+<!--![Expected something?](https://raw.githubusercontent.com/JustAnyones/JustAnyones/master/yes.png) -->
 
 <!--
 ### Hi there 👋
